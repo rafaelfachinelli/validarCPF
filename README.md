@@ -12,15 +12,24 @@
 <p>
 
 <p align="center">
+ <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
    <a href="#video_game-controles">Controles</a> •
  <a href="#memo-roteiro">Roteiro</a> •
- <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
+---
+## :movie_camera: **Demonstração**
+
+<p align="center"><b> :computer: WEB DESKTOP </b>
+
+<p align="center">
+  <kbd><img alt="Validar CPF" src="./.github/desktop_demo.gif"/></kbd>
+<p>
+  
 ---
 ## :computer: Sobre
 
@@ -39,15 +48,6 @@
 
 </details>
 </div>
-
----
-## :movie_camera: **Demonstração**
-
-<p align="center"><b> :computer: WEB DESKTOP </b>
-
-<p align="center">
-  <kbd><img alt="Validar CPF" src="./.github/desktop_demo.gif"/></kbd>
-<p>
 
 ---
 ## :hammer: **Tecnologias**
