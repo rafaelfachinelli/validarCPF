@@ -24,8 +24,6 @@
 ---
 ## :movie_camera: **Demonstração**
 
-<p align="center"><b> :computer: WEB DESKTOP </b>
-
 <p align="center">
   <kbd><img alt="Validar CPF" src="./.github/desktop_demo.gif"/></kbd>
 <p>
