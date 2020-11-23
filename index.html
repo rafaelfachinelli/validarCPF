@@ -3,14 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/index.js" defer></script>
   <title>Validar CPF | Rafael Fachinelli</title>
 </head>
 <body>
   <div class="container">
     <h1 class="validator__title">Validar CPF</h1>
-    <input class="validator__input" type="text" placeholder="CPF"/>
+    <div class="validator__result">
+      <p>Digite o CPF e clique em validar.</p>
+    </div>
+    <input class="validator__input" type="text" placeholder="CPF" maxlength="14" autofocus/>
     <button class="validator__button">Validar</button>
+    <div class="validator__developer">
+      <a href="https://www.linkedin.com/in/rafaelfachinelli/" target="_blank">
+        © 2020 Rafael Fachinelli
+      </a>
+      <img src="assets/images/rflLogo.svg" alt="Rafael Fachinelli">
+    </div>
   </div>
 </body>
 </html>
