@@ -42,9 +42,14 @@ Toda a programação foi desenvolvida para treinar os conceitos do livro Clean C
 <details>
 <summary>Clique para Visualizar</summary>
 
-|      Estado      |     Plataforma   |     Tarefa    |
-|      :---:       |       :---:      |      :---     |
-||||
+|      Estado      |     Tarefa    |
+|      :---:       |      :---     |
+||Organização de arquivos|
+||Estrutura HTML|
+||Programação JavaScript para teste|
+||Estilização CSS básica|
+||Funções JavaScript refinada|
+||Estilização refinada|
 
 </details>
 </div>
