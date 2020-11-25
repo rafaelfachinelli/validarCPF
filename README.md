@@ -44,12 +44,12 @@ Toda a programação foi desenvolvida para treinar os conceitos do livro Clean C
 
 |      Estado      |     Tarefa    |
 |      :---:       |      :---     |
-||Organização de arquivos|
-||Estrutura HTML|
-||Programação JavaScript para teste|
-||Estilização CSS básica|
-||Funções JavaScript refinada|
-||Estilização refinada|
+|:heavy_check_mark:|Organização de arquivos|
+|:heavy_check_mark:|Estrutura HTML|
+|:heavy_check_mark:|Programação JavaScript para teste|
+|:heavy_check_mark:|Estilização CSS básica|
+|:heavy_check_mark:|Funções JavaScript refinada|
+|:heavy_check_mark:|Estilização refinada|
 
 </details>
 </div>
