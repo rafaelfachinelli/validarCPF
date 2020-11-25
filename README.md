@@ -25,7 +25,7 @@
 ## :movie_camera: **Demonstração**
 
 <p align="center">
-  <kbd><img alt="Validar CPF" src="./.github/desktop_demo.gif"/></kbd>
+  <kbd><img alt="Validar CPF" src="./.github/desktop_demo.png"/></kbd>
 <p>
   
 ---
