@@ -31,7 +31,9 @@
 ---
 ## :computer: Sobre
 
-...
+Neste projeto o CPF é verificado através da fórmula que gera os digitos e compara com os recebidos. Utilizando a captura do valor do input e clique do botão, toda a lógica é executada retornando o resultado da verificação.
+
+Toda a programação foi desenvolvida para treinar os conceitos do livro Clean Code, criando funções pequenas e com nomes significativos para evitar o uso de comentários e aumentar significativamente a interpretação da lógica de funcionamento do código.
 
 ---
 ## :memo: **Roteiro**
