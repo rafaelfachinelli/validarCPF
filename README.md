@@ -1,14 +1,14 @@
 <p align="center">
-  <img alt="Validar CPF" src=".github/logo.svg" width="200px"/>
+  <img alt="Validar CPF" src=".github/banner.svg" width="200px"/>
 <p>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/validarCPF?color=2980b9&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/validarCPF?color=2980b9&style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%2980b9?color=2980b9&style=for-the-badge">
+    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%219653?color=219653&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/validarCPF?color=2980b9&style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge"/>
 <p>
 
 <p align="center">
