@@ -14,7 +14,6 @@
 <p align="center">
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
-   <a href="#video_game-controles">Controles</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
