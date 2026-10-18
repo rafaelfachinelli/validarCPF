@@ -1,88 +1,112 @@
 <p align="center">
-  <img alt="Validar CPF" src=".github/banner.svg" width="200px"/>
-<p>
-
-<p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%219653?color=219653&style=for-the-badge">
-  </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge"/>
-<p>
+  <img alt="Validar CPF" src=".github/banner.svg" width="400px"/>
+</p>
 
 <p align="center">
- <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
- <a href="#page_facing_up-licença">Licença</a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/validarCPF?color=3498db&style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/validarCPF?color=3498db&style=for-the-badge">
+  <a href="https://rafaelfachinelli.com">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-3498db?style=for-the-badge">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-3498db?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://rafaelfachinelli.github.io/validarCPF/">Live demo</a>
+</p>
+
+<p align="center">
+  <a href="#eye_speech_bubble-preview">Preview</a> •
+  <a href="#information_source-about">About</a> •
+  <a href="#memo-tasks">Tasks</a> •
+  <a href="#arrow_forward-run">Run</a> •
+  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+  <a href="#boy-author">Author</a> •
+  <a href="#balance_scale-license">License</a>
 </p>
 
 ---
-## :movie_camera: **Demonstração**
 
-<p align="center">
-  <kbd><img alt="Validar CPF" src="./.github/desktop_demo.png"/></kbd>
-<p>
-  
----
-## :computer: Sobre
+## :eye_speech_bubble: Preview
 
-Neste projeto o CPF é verificado através da fórmula que gera os digitos e compara com os recebidos. Utilizando a captura do valor do input e clique do botão, toda a lógica é executada retornando o resultado da verificação.
+<div align="center">
 
-Toda a programação foi desenvolvida para treinar os conceitos do livro Clean Code, criando funções pequenas e com nomes significativos para evitar o uso de comentários e aumentar significativamente a interpretação da lógica de funcionamento do código.
+|Desktop|
+|:---:|
+|<kbd><img src=".github/desktop_demo.png" alt="Validar CPF"/></kbd>|
+
+</div>
 
 ---
-## :memo: **Roteiro**
+
+## :information_source: About
+
+✅ Validates a CPF (the Brazilian individual taxpayer ID) with its mathematical rule: the page computes the two verification digits from the first nine and compares them with the ones typed. The code was written to practice the ideas of the book *Clean Code*: small functions with meaningful names, so the logic reads without comments.
+
+Built in 2020.
+
+---
+
+## :memo: Tasks
 
 <div align="center">
 <details>
-<summary>Clique para Visualizar</summary>
+<summary>Click to view</summary>
 
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|:heavy_check_mark:|Organização de arquivos|
-|:heavy_check_mark:|Estrutura HTML|
-|:heavy_check_mark:|Programação JavaScript para teste|
-|:heavy_check_mark:|Estilização CSS básica|
-|:heavy_check_mark:|Funções JavaScript refinada|
-|:heavy_check_mark:|Estilização refinada|
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Page layout|
+|:heavy_check_mark:|Read the input on click|
+|:heavy_check_mark:|Compute the verification digits|
+|:heavy_check_mark:|Show the result|
+|:heavy_check_mark:|Refactor with Clean Code practices|
 
 </details>
 </div>
 
 ---
-## :hammer: **Tecnologias**
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
+## :arrow_forward: Run
+
+No build step. Open `index.html` in a browser, or see the [live demo](https://rafaelfachinelli.github.io/validarCPF/).
+
+---
+
+## :hammer_and_wrench: Technologies
 
 <div align="center">
 
-|:computer: Desktop|
+|Web|
 |:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|
-|[JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)|
+|[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)|
+|[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)|
+|[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
 
 </div>
 
 ---
-## :boy: **Autor**
+
+## :boy: Author
 
 <div align="center">
-  
-[![Author](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
+
+<a href="https://rafaelfachinelli.com">
+  <img src="https://github.com/rafaelfachinelli.png" width="100px" alt="Rafael Fachinelli"/>
+  <br/>
+  <sub><b>Rafael Fachinelli</b></sub>
+</a>
+
+Tech Lead and software engineer. Get in touch!
+
+[![Portfolio](https://img.shields.io/badge/-rafaelfachinelli.com-3498db?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelfachinelli.com)
+[![LinkedIn](https://img.shields.io/badge/-Rafael_Fachinelli-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![GitHub](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![E-mail](https://img.shields.io/badge/-rafael.l.a.fachinelli@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.l.a.fachinelli@gmail.com)
 
 </div>
 
 ---
-## :page_facing_up: **Licença**
 
-<div align="center">
+## :balance_scale: License
 
-Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-Este projeto é licenciado pelo [MIT](./LICENSE).
-
-</div>
+This project is under the [MIT license](./LICENSE).
